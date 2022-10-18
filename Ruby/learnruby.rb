@@ -1,4 +1,4 @@
-puts "Hello
+puts "Hello"
 puts "Enter Your Name"
 puts "Enter A Number"
 num1 = gets.chomp()
