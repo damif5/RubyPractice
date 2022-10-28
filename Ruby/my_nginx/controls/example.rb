@@ -16,4 +16,4 @@ control "tmp-1.0" do                        # A unique ID for this control
     it { should be_directory }
   end
 end
-puts 3**2
+
